@@ -15,6 +15,7 @@
 //   }
   
 // }
+//*Sum of digits of a number */
 
 public class MathDSA {
   static int sumOfDigits(int num) {
@@ -34,3 +35,7 @@ public class MathDSA {
   }
   
 }
+
+
+//== Reverse of a number ==//
+
