@@ -1,4 +1,4 @@
-package Pattern_Q;
+package PatternQuestions;
 
 import java.util.Scanner;
 

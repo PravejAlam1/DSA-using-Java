@@ -1,4 +1,4 @@
-package Pattern_Q;
+package PatternQuestions;
 
 public class solidParamid {
   public static void main(String[] args) {

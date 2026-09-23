@@ -1,4 +1,4 @@
-package Pattern_Q;
+package PatternQuestions;
 
 public class Solutions10 {
    public static void main(String args[]) {
